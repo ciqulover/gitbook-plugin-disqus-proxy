@@ -1,9 +1,12 @@
 {
   "name": "gitbook-plugin-disqus-proxy",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "main": "index",
   "dependencies": {
     "disqus-proxy-core": "^0.1.0"
+  },
+  "engines": {
+    "gitbook": ">1.x.x"
   },
   "keywords": [
     "disqus",
