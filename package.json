@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-plugin-disqus-proxy",
+  "version": "0.1.0",
+  "main": "index",
+  "dependencies": {
+    "disqus-proxy-core": "^0.1.0"
+  },
+  "keywords": [
+    "disqus",
+    "gitbook"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ciqulover/gitbook-plugin-disqus-proxy"
+  },
+  "author": {
+    "name": "ciqulover",
+    "email": "ciqulover@gmail.com",
+    "url": "ycwalker.com"
+  },
+  "license": "MIT"
+}
